@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as r}from"./index-CUNZL2lY.js";const c={},s={class:"brand-logo",role:"img","aria-label":"Flowserve"};function a(n,t){return e(),r("span",s)}const l=o(c,[["render",a]]);export{l as B};
