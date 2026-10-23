@@ -1,0 +1,1 @@
+import{d as e,e as s,m as r}from"./index-CB7KAOZ2.js";const l=e({__name:"BrandLogo",setup(n){const o="/fsweb/flowserve-logo.svg";return(a,c)=>(r(),s("img",{class:"brand-logo",src:o,alt:"Flowserve"}))}});export{l as _};
