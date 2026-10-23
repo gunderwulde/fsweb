@@ -1,1 +1,0 @@
-import{d as t,u as a,c as s,a as n,t as o,e as c,o as i}from"./index-nltVo-81.js";const p={class:"admin-page"},r={class:"admin-page-title"},u=t({__name:"EquipmentPage",setup(_){const{t:e}=a();return(m,d)=>(i(),s("div",p,[n("h1",r,o(c(e)("adminPages.equipment.title")),1)]))}});export{u as default};

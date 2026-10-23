@@ -1,0 +1,1 @@
+import{d as s,u as t,c as a,a as n,t as o,e as c,o as i}from"./index-DxJbLmtk.js";const r={class:"admin-page"},_={class:"admin-page-title"},u=s({__name:"ClientsPage",setup(l){const{t:e}=t();return(d,p)=>(i(),a("div",r,[n("h1",_,o(c(e)("adminPages.clients.title")),1)]))}});export{u as default};
