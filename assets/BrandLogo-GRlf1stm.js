@@ -1,1 +1,0 @@
-import{_ as e,m as o,e as r}from"./index-ePkAB4B2.js";const s={},a={class:"brand-logo",role:"img","aria-label":"Flowserve"};function c(n,t){return o(),r("span",a)}const l=e(s,[["render",c]]);export{l as B};
