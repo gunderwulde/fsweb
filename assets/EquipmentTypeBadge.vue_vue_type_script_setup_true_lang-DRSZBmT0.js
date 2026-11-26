@@ -1,0 +1,1 @@
+import{d as a,u as n,c as s,E as p,t as o,f as c,g as m,o as r}from"./index-C2cJ1YkZ.js";const l=a({__name:"EquipmentTypeBadge",props:{type:{}},setup(e){const{t}=n();return(u,y)=>e.type!==null?(r(),s("span",{key:0,class:p(["type-badge",`type-${e.type}`])},o(c(t)(`equipmentAdmin.types.${e.type}`)),3)):m("",!0)}});export{l as _};
